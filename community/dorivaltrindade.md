@@ -35,3 +35,12 @@ Quando for possível, gostaria muito de participar do desenvolimento de um siste
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+## 🛶 GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorivaltrindade&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+<a href="https://github.com/dorivaltrindade/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorivaltrindade&layout=compact&langs_count=7&theme=tokyonight" />
+</a>
+
+## 💼 Contribuicões
+- <a href="https://web.dio.me/articles/7-dicas-para-assimilar-e-reter-o-conhecimento-em-cursos-ead?back=%2Farticles&page=1&order=oldest)">7 Dicas para assimilar e reter o conhecimento em cursos EAD</a>
